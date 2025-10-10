@@ -4,7 +4,7 @@
 // @version      1.1.1
 // @description  为OP.GG游戏模式页面添加英雄中文诙谐名搜索功能
 // @license      MIT
-// @author       LM
+// @author       LongMan98
 // @match        https://op.gg/zh-cn/lol/modes/*
 // @match        https://op.gg/lol/modes/*
 // @icon         https://opgg-static.akamaized.net/meta/images/lol/latest/champion/Ashe.png?image=e_upscale,c_crop,h_103,w_103,x_9,y_9/q_auto:good,f_webp,w_160,h_160
