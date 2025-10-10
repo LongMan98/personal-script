@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         OPGG英雄中文诙谐名搜索
-// @namespace   https://gitee.com/LongMan98/personal-script
+// @namespace   https://github.com/LongMan98/personal-script
 // @version      1.1.1
 // @description  为OP.GG游戏模式页面添加英雄中文诙谐名搜索功能
 // @license      MIT
