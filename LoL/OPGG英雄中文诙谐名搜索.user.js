@@ -8,6 +8,8 @@
 // @match        https://op.gg/zh-cn/lol/modes/*
 // @match        https://op.gg/lol/modes/*
 // @icon         https://opgg-static.akamaized.net/meta/images/lol/latest/champion/Ashe.png?image=e_upscale,c_crop,h_103,w_103,x_9,y_9/q_auto:good,f_webp,w_160,h_160
+// @updateURL   https://raw.githubusercontent.com/LongMan98/personal-script/main/LoL/OPGG%E8%8B%B1%E9%9B%84%E4%B8%AD%E6%96%87%E8%AF%99%E8%B0%90%E5%90%8D%E6%90%9C%E7%B4%A2.user.js
+// @downloadURL  https://raw.githubusercontent.com/LongMan98/personal-script/main/LoL/OPGG%E8%8B%B1%E9%9B%84%E4%B8%AD%E6%96%87%E8%AF%99%E8%B0%90%E5%90%8D%E6%90%9C%E7%B4%A2.user.js
 // @grant        none
 // ==/UserScript==
 
