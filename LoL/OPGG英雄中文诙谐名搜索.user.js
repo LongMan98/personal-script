@@ -135,7 +135,7 @@
         "梅尔": "mel", "三体人": "mel",
         "艾克": "ekko", "时间刺客": "ekko",
         "佐伊": "zoe", "暮光星灵": "zoe", "a女": "zoe", "木瓜星灵": "zoe",
-        "奥瑞利安·索尔": "aurelionsol", "铸星龙王": "aurelionsol", "龙王": "aurelionsol",
+        "奥瑞利安·索尔": "aurelionsol", "铸星龙王": "aurelionsol", "龙王": "aurelionsol", "奥瑞利安索尔": "aurelionsol",
         "玛尔扎哈": "malzahar", "虚空先知": "malzahar", "蚂蚱": "malzahar",
         "兰博": "rumble", "机械公敌": "rumble", "喷火娃": "rumble",
         "婕拉": "zyra", "荆棘之兴": "zyra",
@@ -147,7 +147,7 @@
         "阿兹尔": "azir", "沙漠皇帝": "azir", "沙皇": "azir", "黄鸡": "azir", "脆皮鸡": "azir",
         "格温": "gwen", "灵罗娃娃": "gwen",
         "豹女": "nidalee", "奶大力": "nidalee", "奈德丽": "nidalee", "狂野女猎手": "nidalee", "豹子": "nidalee",
-        "异画师": "hwei", "绘师": "hwei",
+        "异画师": "hwei", "绘师": "hwei", "画家": "hwei", "水墨法师": "hwei",
         "双界灵兔": "aurora", "灵兔": "aurora", "兔子": "aurora",
 
         // 射手类
@@ -195,8 +195,8 @@
         "悠米": "yuumi", "猫": "yuumi", "魔法猫咪": "yuumi", "猫咪": "yuumi",
         "萨勒芬妮": "seraphine", "歌姬": "seraphine",
         "芮尔": "rell", "铁女": "rell", "镕铁少女": "rell",
-        "莉莉娅": "lillia", "鹿女": "lillia", "含羞蓓蕾": "lillia", "小鹿": "lillia",
-        "米利欧": "milio", "明烛": "milio",
+        "莉莉娅": "lillia", "鹿女": "lillia", "含羞蓓蕾": "lillia", "小鹿": "lillia", "梦鹿": "lillia",
+        "米利欧": "milio", "明烛": "milio", "小灯笼": "milio",
         "洛": "rakan", "幻翎": "rakan",
         "炼金男爵": "renata", "炼金妈": "renata", "男爵妈": "renata",
 
