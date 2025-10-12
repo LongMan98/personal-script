@@ -20,7 +20,7 @@
     const heroNameMap = {
         // 战士类
         "盖伦": "garen", "大宝剑": "garen", "草丛伦": "garen", "gay伦": "garen",
-        "诺手": "darius", "达瑞斯": "darius", "人头狗": "darius",
+        "诺手": "darius", "达瑞斯": "darius", "人头狗": "darius", "诺克萨斯之手": "darius",
         "鳄鱼": "renekton", "雷克顿": "renekton", "荒漠屠夫": "renekton",
         "狗头": "nasus", "内瑟斯": "nasus", "沙漠死神": "nasus",
         "剑魔": "aatrox", "暗裔剑魔": "aatrox",
@@ -28,7 +28,7 @@
         "青钢影": "camille", "卡蜜尔": "camille", "剪刀腿": "camille",
         "腕豪": "sett", "瑟提": "sett", "劲夫": "sett", "万豪": "sett",
         "赵信": "xinzhao", "赵云": "xinzhao", "赵子龙": "xinzhao", "菊花信": "xinzhao",
-        "皇子": "jarvaniv", "嘉文四世": "jarvaniv",
+        "皇子": "jarvaniv", "嘉文四世": "jarvaniv", "德玛西亚皇子": "jarvaniv",
         "剑圣": "masteryi", "易大师": "masteryi", "蛮易信": "masteryi",
         "蛮王": "tryndamere", "蛮子": "tryndamere", "五秒真男人": "tryndamere",
         "武器": "jax", "贾克斯": "jax", "武器大师": "jax",
@@ -54,7 +54,7 @@
         "狂厄蔷薇": "briar", "蔷薇": "briar", "小蔷薇": "briar", "抽血泵": "briar", "疯批蔷薇": "briar", "荆棘妹": "briar",
 
         // 刺客类
-        "劫": "zed", "儿童劫": "zed", "影流之主": "zed"
+        "劫": "zed", "儿童劫": "zed", "影流之主": "zed",
         "男刀": "talon", "泰隆": "talon", "刀锋之影": "talon",
         "螳螂": "khazix", "卡兹克": "khazix", "虚空掠夺者": "khazix", "喜之郎": "khazix",
         "狮子狗": "rengar", "雷恩加尔": "rengar", "傲之追猎者": "rengar",
@@ -74,7 +74,7 @@
         "乐芙兰": "leblanc", "诡术妖姬": "leblanc", "妖姬": "leblanc", "提款姬": "leblanc",
         "锐雯": "riven", "放逐之刃": "riven",
         "魔腾": "nocturne", "永恒梦魇": "nocturne", "梦魇": "nocturne",
-        "挖掘机": "reksai", "雷克塞": "reksai", "土龙": "reksai", "虚空遁地兽": "reksai",
+        "挖掘机": "reksai", "雷克塞": "reksai", "土龙": "reksai", "虚空遁地兽": "reksai", "地鼠": "reksai",
 
         // 坦克类
         "大树": "maokai", "茂凯": "maokai", "扭曲树精": "maokai", "树精": "maokai", "树人": "maokai",
@@ -86,7 +86,7 @@
         "布隆": "braum", "门板": "braum", "弗雷尔卓德之心": "braum",
         "日女": "leona", "蕾欧娜": "leona", "曙光": "leona", "曙光女神": "leona", "女坦": "leona", "太阳女孩": "leona",
         "猪妹": "sejuani", "瑟庄妮": "sejuani", "北地之怒": "sejuani",
-        "龙龟": "rammus", "拉莫斯": "rammus", "披甲龙龟": "rammus", "王八": "rammus",
+        "龙龟": "rammus", "拉莫斯": "rammus", "披甲龙龟": "rammus", "王八": "rammus", "反甲龟": "rammus",
         "蝎子": "skarner", "斯卡纳": "skarner", "水晶先锋": "skarner",
         "狗熊": "volibear", "沃利贝尔": "volibear", "不灭狂雷": "volibear",
         "木乃伊": "amumu", "阿木木": "amumu", "殇之木乃伊": "amumu", "木木": "amumu",
@@ -97,7 +97,7 @@
         "加里奥": "galio", "正义巨像": "galio", "石像鬼": "galio", "城墙": "galio", "蝙蝠侠": "galio",
         "扎克": "zac", "生化魔人": "zac", "绿巨人": "zac", "鼻涕人": "zac", "粑粑人": "zac", "果冻人": "zac", "翔战士": "zac",
         "赛恩": "sion", "亡灵战神": "sion", "老司机": "sion",
-        "蒙多": "drmundo", "祖安狂人": "drmundo",
+        "蒙多": "drmundo", "祖安狂人": "drmundo", "想去哪就去哪": "drmundo",
         "特朗德尔": "trundle", "巨魔之王": "trundle", "巨魔": "trundle",
         "塔里克": "taric", "瓦洛兰之盾": "taric", "宝石": "taric",
         "妮蔻": "neeko", "万花通灵": "neeko","niko": "neeko",
@@ -119,7 +119,7 @@
         "凯南": "kennen", "电耗子": "kennen", "狂暴之心": "kennen",
         "炼金": "singed", "辛吉德": "singed", "毒奶": "singed", "炼金术士": "singed",
         "酒桶": "gragas", "古拉加斯": "gragas", "酒男": "gragas", "啤酒人": "gragas",
-        "铁男": "mordekaiser", "莫德凯撒": "mordekaiser", "金属大师": "mordekaiser",
+        "铁男": "mordekaiser", "莫德凯撒": "mordekaiser", "金属大师": "mordekaiser", "铁铠冥魂": "mordekaiser",
         "冰鸟": "anivia", "艾尼维亚": "anivia", "冰晶凤凰": "anivia", "凤凰": "anivia",
         "大虫子": "chogath", "科加斯": "chogath", "虚空恐惧": "chogath",
         "稻草人": "fiddlesticks", "费德提克": "fiddlesticks", "末日使者": "fiddlesticks", "远古恐惧": "fiddlesticks",
@@ -128,7 +128,7 @@
         "岩雀": "taliyah", "塔莉垭": "taliyah", "石女": "taliyah", "麻雀": "taliyah",
         "翠神": "ivern", "艾翁": "ivern", "草男": "ivern", "蔡徐坤": "ivern",
         "薇古丝": "vex", "小恶魔": "vex", "摆烂熊": "vex", "熬夜波比": "vex",
-        "瑞兹": "ryze", "法术机关枪": "ryze", "光头": "ryze",
+        "瑞兹": "ryze", "法术机关枪": "ryze", "光头": "ryze", "符文法师": "ryze", "流浪法师": "ryze",
         "提莫": "teemo", "提百万": "teemo", "蘑菇": "teemo", "迅捷斥候": "teemo",
         "安妮": "annie", "火女": "annie", "黑暗之女": "annie",
         "阿狸": "ahri", "狐狸": "ahri", "九尾妖狐": "ahri",
