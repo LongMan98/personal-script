@@ -117,7 +117,7 @@
         "小法": "veigar", "邪恶小法师": "veigar", "维迦": "veigar",
         "大头": "heimerdinger", "黑默丁格": "heimerdinger", "大发明家": "heimerdinger",
         "凯南": "kennen", "电耗子": "kennen", "狂暴之心": "kennen",
-        "炼金": "singed", "辛吉德": "singed", "毒奶": "singed",
+        "炼金": "singed", "辛吉德": "singed", "毒奶": "singed", "炼金术士": "singed",
         "酒桶": "gragas", "古拉加斯": "gragas", "酒男": "gragas", "啤酒人": "gragas",
         "铁男": "mordekaiser", "莫德凯撒": "mordekaiser", "金属大师": "mordekaiser",
         "冰鸟": "anivia", "艾尼维亚": "anivia", "冰晶凤凰": "anivia", "凤凰": "anivia",
