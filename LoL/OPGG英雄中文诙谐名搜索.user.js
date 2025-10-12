@@ -62,7 +62,7 @@
         "阿卡丽": "akali", "离群之刺": "akali", "快乐刺客": "akali",
         "卡特": "katarina", "卡特琳娜": "katarina", "不祥之刃": "katarina",
         "派克": "pyke", "血港鬼影": "pyke", "水鬼": "pyke",
-        "永恩": "yone", "亚索哥": "yone", "快乐风男他哥": "yone",
+        "永恩": "yone", "亚索哥": "yone", "快乐风男他哥": "yone", "封魔剑魂": "yone",
         "阿克尚": "akshan", "阿克曼": "akshan",
         "破败之王": "viego", "佛耶戈": "viego", "佛爷": "viego", "破败王": "viego", "破财王": "viego",
         "凯隐": "kayn", "拉亚斯特": "kayn", "红凯": "kayn", "蓝凯": "kayn", "凯": "kayn", "影流之镰": "kayn", "镰刀": "kayn",
