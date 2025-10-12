@@ -54,7 +54,7 @@
         "狂厄蔷薇": "briar", "蔷薇": "briar", "小蔷薇": "briar", "抽血泵": "briar", "疯批蔷薇": "briar", "荆棘妹": "briar",
 
         // 刺客类
-        "劫": "zed", "儿童劫": "zed",
+        "劫": "zed", "儿童劫": "zed", "影流之主": "zed"
         "男刀": "talon", "泰隆": "talon", "刀锋之影": "talon",
         "螳螂": "khazix", "卡兹克": "khazix", "虚空掠夺者": "khazix", "喜之郎": "khazix",
         "狮子狗": "rengar", "雷恩加尔": "rengar", "傲之追猎者": "rengar",
