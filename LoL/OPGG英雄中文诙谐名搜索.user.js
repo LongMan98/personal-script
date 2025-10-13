@@ -152,7 +152,7 @@
 
         // 射手类
         "寒冰": "ashe", "艾希": "ashe", "寒冰射手": "ashe",
-        "EZ": "ezreal", "伊泽瑞尔": "ezreal", "小黄毛": "ezreal", "伊泽": "ezreal", "探险家": "ezreal",
+        "EZ": "ezreal", "伊泽瑞尔": "ezreal", "小黄毛": "ezreal", "伊泽": "ezreal", "探险家": "ezreal", "ez": "ezreal",
         "VN": "vayne", "薇恩": "vayne", "暗夜猎手": "vayne",
         "女警": "caitlyn", "凯特琳": "caitlyn", "皮城女警": "caitlyn",
         "金克丝": "jinx", "暴走萝莉": "jinx",
