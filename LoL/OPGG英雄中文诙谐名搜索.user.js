@@ -190,7 +190,7 @@
         "蜘蛛": "elise", "伊莉丝": "elise", "蜘蛛女皇": "elise",
         "莫甘娜": "morgana", "堕落天使": "morgana", "黑妹": "morgana",
         "天使": "kayle", "凯尔": "kayle", "大天使": "kayle", "正义天使": "kayle",
-        "狼人": "warwick", "沃里克": "warwick", "嗜血猎手": "warwick", "祖安怒兽": "warwick"
+        "狼人": "warwick", "沃里克": "warwick", "嗜血猎手": "warwick", "祖安怒兽": "warwick",
         "雪人": "nunu", "努努": "nunu", "努努和威朗普": "nunu", "雪原双子": "nunu",
         "悠米": "yuumi", "猫": "yuumi", "魔法猫咪": "yuumi", "猫咪": "yuumi",
         "萨勒芬妮": "seraphine", "歌姬": "seraphine", "星籁歌姬": "seraphine",
