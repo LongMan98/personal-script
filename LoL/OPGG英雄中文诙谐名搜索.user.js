@@ -146,7 +146,7 @@
         "卡尔萨斯": "karthus", "死亡颂唱者": "karthus", "死歌": "karthus",
         "阿兹尔": "azir", "沙漠皇帝": "azir", "沙皇": "azir", "黄鸡": "azir", "脆皮鸡": "azir",
         "格温": "gwen", "灵罗娃娃": "gwen",
-        "豹女": "nidalee", "奶大力": "nidalee", "奈德丽": "nidalee", "狂野女猎手": "nidalee", "豹子": "nidalee",
+        "豹女": "nidalee", "奶大力": "nidalee", "奈德丽": "nidalee", "狂野女猎手": "nidalee", "豹子": "nidalee", "暴女": "nidalee",
         "异画师": "hwei", "绘师": "hwei", "画家": "hwei", "水墨法师": "hwei", "彗": "hwei",
         "双界灵兔": "aurora", "灵兔": "aurora", "兔子": "aurora", "阿萝拉": "aurora",
 
