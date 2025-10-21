@@ -59,7 +59,7 @@
         "螳螂": "khazix", "卡兹克": "khazix", "虚空掠夺者": "khazix", "喜之郎": "khazix",
         "狮子狗": "rengar", "雷恩加尔": "rengar", "傲之追猎者": "rengar",
         "小鱼人": "fizz", "菲兹": "fizz", "鲇鱼": "fizz", "小鱼": "fizz", "潮汐海灵": "fizz",
-        "阿卡丽": "akali", "离群之刺": "akali", "快乐刺客": "akali",
+        "阿卡丽": "akali", "离群之刺": "akali", "快乐刺客": "akali", "暗影之拳": "akali",
         "卡特": "katarina", "卡特琳娜": "katarina", "不祥之刃": "katarina",
         "派克": "pyke", "血港鬼影": "pyke", "水鬼": "pyke",
         "永恩": "yone", "亚索哥": "yone", "快乐风男他哥": "yone", "封魔剑魂": "yone",
