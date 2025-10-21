@@ -647,7 +647,7 @@
         for (const [chineseName, englishName] of Object.entries(heroNameMap)) {
             if (chineseName.includes(input)) {
                 matches.push({ chineseName, englishName });
-                if (matches.length >= 8) break; // 限制显示数量
+                if (matches.length >= 15) break; // 限制显示数量
             }
         }
 
