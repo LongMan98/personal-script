@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         OPGG英雄中文诙谐名搜索
 // @namespace   https://github.com/LongMan98/personal-script
-// @version      2025.10.22
+// @version      2025.10.24
 // @description  为OP.GG游戏模式页面添加英雄中文诙谐名搜索功能
 // @license      MIT
 // @author       LongMan98
 // @match        https://op.gg/zh-cn/lol/modes/*
 // @match        https://op.gg/lol/modes/*
 // @icon         https://opgg-static.akamaized.net/meta/images/lol/latest/champion/寒冰射手.png?image=e_upscale,c_crop,h_103,w_103,x_9,y_9/q_auto:good,f_webp,w_160,h_160
-// @updateURL   https://raw.githubusercontent.com/LongMan98/personal-script/main/LoL/OPGG%E8%8B%B1%E9%9B%84%E4%B8%AD%E6%96%87%E8%AF%99%E8%B0%90%E5%90%8D%E6%90%9C%E7%B4%A2.user.js
-// @downloadURL  https://raw.githubusercontent.com/LongMan98/personal-script/main/LoL/OPGG%E8%8B%B1%E9%9B%84%E4%B8%AD%E6%96%87%E8%AF%99%E8%B0%90%E5%90%8D%E6%90%9C%E7%B4%A2.user.js
+// @updateURL    https://wget.la/https://raw.githubusercontent.com/LongMan98/personal-script/main/LoL/OPGG%E8%8B%B1%E9%9B%84%E4%B8%AD%E6%96%87%E8%AF%99%E8%B0%90%E5%90%8D%E6%90%9C%E7%B4%A2.user.js
+// @downloadURL  https://wget.la/https://raw.githubusercontent.com/LongMan98/personal-script/main/LoL/OPGG%E8%8B%B1%E9%9B%84%E4%B8%AD%E6%96%87%E8%AF%99%E8%B0%90%E5%90%8D%E6%90%9C%E7%B4%A2.user.js
 // @grant        none
 // ==/UserScript==
 
